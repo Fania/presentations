@@ -1,6 +1,6 @@
 # Base Presentation Placeholder
 
-This repo hold a blank [reveal](https://revealjs.com) presentation that loads in an external markdown file via the url.
+This repo holds a blank [reveal](https://revealjs.com) presentation that loads in an external markdown file via the url.
 
 To run call ```https://fania.github.io/presents/?USER_REPO_FILE```.
 
